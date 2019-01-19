@@ -1,0 +1,28 @@
+.fancy-link {
+    border-color: rgb(23, 162, 184);
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 2px;
+    box-sizing: border-box;
+    color: rgb(23, 162, 184);
+    display: inline-block;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    transition-duration: 0.5s;
+    transition-property: all;
+    width: 100%;
+}
+
+.fancy-link:hover {
+    background-color: rgb(23, 162, 184);
+    color: white;
+}
+
+.fancy-link-active {
+    background-color: rgb(23, 162, 184);
+    color: white;
+}
+.centered-text {
+    text-align: center;
+}
