@@ -23,9 +23,19 @@
     background-color: rgb(23, 162, 184);
     color: white;
 }
+
 .centered-text {
     text-align: center;
 }
+
 .sketch {
     font-family: "Cabin Sketch", cursive;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Cabin Sketch', cursive;
+}
+
+body {
+    font-family: 'Neucha', cursive;
 }
